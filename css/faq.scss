@@ -39,3 +39,12 @@ a{text-decoration: none; color: #000;}
         }
     }
 }
+#accordion{
+    .ui-state-active{
+        background-color: #ffc0cb;
+        border-color: #eb97a5;
+        color: #333;
+        span{    background-image: url(	https://code.jquery.com/ui/1.14.0/themes/base/images/ui-icons_444444_256x240.png
+            );}
+    }
+}
