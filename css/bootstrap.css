@@ -1,0 +1,6 @@
+#hd a{color: #fff;}
+#hd .navbar{
+    background-color: #000;
+}
+#hd a.dropdown-item{color: #000;}
+#hd .navbar-toggler {background: #fff;}
